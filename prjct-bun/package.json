@@ -1,0 +1,9 @@
+{
+	"name": "prjct-bun",
+	"devDependencies": {
+		"@types/bun": "latest"
+	},
+	"peerDependencies": {
+		"typescript": "^5.0.0"
+	}
+}
